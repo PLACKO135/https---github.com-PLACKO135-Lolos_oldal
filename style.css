@@ -1,0 +1,72 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:top;
+    margin: 0;
+    padding: 0;
+}
+
+.index{
+    background-image:url(kepek/Home-page.jpg);
+}
+
+.meccs{
+    background-image:url(kepek/League-of-Legends-Wallpaper-24.jpg);
+}
+
+.fogalmak{
+    background-image:url(kepek/wallpapersden.com_odyssey-aatrox-lol_1920x1080.jpg);
+}
+
+.karakter{
+    background-image:url(kepek/Obsidian_Dragon_Sett_Splash.jpg);
+}
+
+.lol{
+    background-image:url(kepek/League-of-Legends-Wallpaper-6.jpg);
+}
+
+h1{
+    color: rgb(247, 181, 14);
+}
+
+h2{
+    color: rgb(247, 181, 14);
+}
+
+h3{
+    text-align: center;
+    color:rgb(0, 238, 255);
+
+}
+
+a,ul{
+    color:rgb(0, 238, 255);
+    text-decoration: none;
+}
+
+#menüszalag{
+    width: 100%;
+    height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    background-color:rgba(218, 165, 32, 0.548);
+}
+
+#tartalom{
+    color:aquamarine;
+    font-size: 25px;
+}
+
+#link{
+    color: rgb(23, 139, 255);
+}
+
+ul li {
+    float: left;
+    margin-left: 20px;
+    list-style-type: none;
+    font-size: 30px;
+    padding: 5px;
+}
+
